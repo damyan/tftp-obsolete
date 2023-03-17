@@ -1,4 +1,4 @@
-module github.com/damyan/tftp
+module github.com/damyan/tftp/v2
 
 go 1.20
 
