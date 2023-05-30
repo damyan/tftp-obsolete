@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/damyan/tftp v2.1.0+incompatible
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.10.0
 )
 
