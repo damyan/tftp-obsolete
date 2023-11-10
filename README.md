@@ -1,3 +1,4 @@
+# OBSOLETE. Use https://github.com/damyan/tftp instead!
 TFTP server and client library for Golang
 =========================================
 
